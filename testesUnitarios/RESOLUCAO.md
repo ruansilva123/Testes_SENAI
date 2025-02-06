@@ -6,7 +6,7 @@ A atividade 3 possui como objetivo realizar os testes unitários nas seguintes e
 
 ### 1. Testes de Interface
 
-- As duas entradas devem ser apenas números válidos;
+- As três entradas devem ser apenas números válidos;
 - Validar se os resultados das comparações estão corretas;
 - Garantir que as mensagens retornem com o resultado da comparação (maior, menor, igual ou intermediário).
 
