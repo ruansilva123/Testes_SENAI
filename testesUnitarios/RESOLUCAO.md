@@ -12,7 +12,7 @@ A atividade 3 possui como objetivo realizar os testes unitários nas seguintes e
 
 ### 2. Testes de Condições Limite
 
-- Testar comparação com valores distântes entre sí (um positivo e outro negativo);
+- Testar comparação com valores distantes entre si (um positivo e outro negativo);
 - Testar comparação dos valores com casas decimais.
 
 ### 3. Testes de Caminhos Independentes
